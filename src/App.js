@@ -1,9 +1,9 @@
-import { Register, Login } from './components';
+import { /* Register, */ Login } from './components';
 
 function App() {
   return (
     <main className='App'>
-      <Register />
+      {/* <Register /> */}
       <Login />
     </main>
   );
